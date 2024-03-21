@@ -1,2 +1,2 @@
 # kdcp-cli
-an simple climtool for devs
+an simple cli tool for devs
